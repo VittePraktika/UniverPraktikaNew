@@ -1,0 +1,11 @@
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\bin\Debug\document.exe.config
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\bin\Debug\document.exe
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\bin\Debug\document.pdb
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.csprojResolveAssemblyReference.cache
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.Form1.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.Form2.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.Form3.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.Properties.Resources.resources
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.csproj.GenerateResource.Cache
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.exe
+C:\Users\ACER\OneDrive\Документы\Visual Studio 2013\Projects\document\document\obj\Debug\document.pdb
